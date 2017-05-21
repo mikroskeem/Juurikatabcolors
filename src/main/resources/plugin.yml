@@ -1,0 +1,15 @@
+name: Juurikatabcolor
+version: @version@
+main: eu.mikroskeem.juurikatabcolor.Main
+depend: [PermissionsEx]
+authors: [mikroskeem]
+description: Järgmine tab värvide plugin mis ei ole lihtsalt välja situtud, vaid hästi tehtud. Made on request for Karmo Tutk
+website: https://mikroskeem.eu
+
+commands:
+  jtc:
+    permissions: jtc.reload
+
+permissions:
+  jtc.reload:
+    default: op

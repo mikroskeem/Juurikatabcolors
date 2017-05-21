@@ -1,0 +1,10 @@
+# ¯\_(ツ)_/¯
+# - mikroskeem, 2017
+#
+# Placeholders:
+# - %name (username w/o colors)
+# - %displayname (a'la /nick etc.)
+# - %prefix (PEX prefix)
+# - %suffix (PEX suffix)
+
+format: "%prefix %name"
